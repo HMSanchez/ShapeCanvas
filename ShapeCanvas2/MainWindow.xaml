@@ -1,0 +1,93 @@
+﻿<Window x:Class="ShapeCanvas2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:suc="clr-namespace:ShapeCanvas2.SlideUserControl"
+        xmlns:local="clr-namespace:ShapeCanvas2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="685">
+
+    <suc:slideusercontrol x:Name="Slide"  >
+                </suc:slideusercontrol>
+
+
+            <!--<DockPanel VerticalAlignment="Center" Margin="10">
+                <Label DockPanel.Dock="Left" FontWeight="Bold">R:</Label>
+                <TextBox Text="{Binding ElementName=slColorR, Path=Value, UpdateSourceTrigger=PropertyChanged}" DockPanel.Dock="Right" TextAlignment="Right" Width="40" />
+                <Slider Maximum="255"  TickFrequency="1" IsSnapToTickEnabled="True" Name="slColorR" ValueChanged="ColorSlider_ValueChanged" />
+            </DockPanel>
+            <DockPanel VerticalAlignment="Center" Margin="10">
+                <Label DockPanel.Dock="Left" FontWeight="Bold">G:</Label>
+                <TextBox Text="{Binding ElementName=slColorG, Path=Value, UpdateSourceTrigger=PropertyChanged}" DockPanel.Dock="Right" TextAlignment="Right" Width="40" />
+                <Slider Maximum="255" TickFrequency="5" IsSnapToTickEnabled="True" Name="slColorG" ValueChanged="ColorSlider_ValueChanged" />
+            </DockPanel>
+
+            <DockPanel VerticalAlignment="Center" Margin="10">
+                <Label DockPanel.Dock="Left" FontWeight="Bold">B:</Label>
+                <TextBox Text="{Binding ElementName=slColorB, Path=Value, UpdateSourceTrigger=PropertyChanged}" DockPanel.Dock="Right" TextAlignment="Right" Width="40" />
+                <Slider Maximum="255"  TickFrequency="5" IsSnapToTickEnabled="True" Name="slColorB" ValueChanged="ColorSlider_ValueChanged" />
+            </DockPanel>
+            <DockPanel VerticalAlignment="Center" Margin="10">
+                <Label DockPanel.Dock="Left" FontWeight="Bold">A:</Label>
+                <TextBox Text="{Binding ElementName=slColorA, Path=Value, UpdateSourceTrigger=PropertyChanged}" DockPanel.Dock="Right" TextAlignment="Right" Width="40" />
+                <Slider Maximum="255"  TickFrequency="5" IsSnapToTickEnabled="True" Name="slColorA" ValueChanged="ColorSlider_ValueChanged" />
+            </DockPanel>--><!--
+        </StackPanel>
+
+        <Canvas x:Name="Can1" Background="Aqua" MouseLeftButtonDown="Canvas_MouseLeftButtonDown" ClipToBounds="True" MouseRightButtonDown="Can1_MouseRightButtonDown" >
+
+        </Canvas>
+        <Canvas Grid.Column="1">
+
+
+
+            <StackPanel Orientation="Horizontal" VerticalAlignment="Bottom">
+                <Button x:Name="Clear"
+                Height="45"
+                Content="Clear"
+                FontSize="24"
+                Width="95"
+                    Canvas.Bottom="30"
+                    Canvas.Right="50"
+                Click="Clear_Click"
+               />
+
+            </StackPanel>
+        </Canvas>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="55*"/>
+            <ColumnDefinition Width="45*"/>
+
+        </Grid.ColumnDefinitions>
+
+
+
+
+        --><!--<Canvas>
+            
+        </Canvas>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="330"/>
+            <ColumnDefinition Width="1*"/>
+
+        </Grid.ColumnDefinitions>
+
+        <Label Background="Azure" Grid.Column="0" Target="{x:Reference TextBox1}" />
+        <Button Background="Aquamarine" Name="TextBox1" Grid.Column="0" MouseLeftButtonDown="Label_MouseLeftButtonDown"/>
+        <Label Background="DarkCyan" Grid.Column="1"/>
+        <Button x:Name="Clear"
+                Height="45"
+                Content="Clear"
+                FontSize="24"
+                Width="95"
+                Grid.Column="1"
+                Click="Clear_Click"
+                >
+            
+            
+        </Button>--><!--
+
+
+    </Grid>-->
+</Window>

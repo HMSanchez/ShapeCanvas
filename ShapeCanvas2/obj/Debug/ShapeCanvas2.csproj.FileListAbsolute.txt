@@ -1,0 +1,17 @@
+C:\Users\HSanchez\Desktop\App Dev\ShapeCanvas2\ShapeCanvas2\obj\Debug\ShapeCanvas2.csprojResolveAssemblyReference.cache
+C:\Users\HSanchez\Desktop\App Dev\ShapeCanvas2\ShapeCanvas2\obj\Debug\MainWindow.g.cs
+C:\Users\HSanchez\Desktop\App Dev\ShapeCanvas2\ShapeCanvas2\obj\Debug\SlideUserControl\slideusercontrol.g.cs
+C:\Users\HSanchez\Desktop\App Dev\ShapeCanvas2\ShapeCanvas2\obj\Debug\App.g.cs
+C:\Users\HSanchez\Desktop\App Dev\ShapeCanvas2\ShapeCanvas2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\HSanchez\Desktop\App Dev\ShapeCanvas2\ShapeCanvas2\obj\Debug\ShapeCanvas2_MarkupCompile.cache
+C:\Users\HSanchez\Desktop\App Dev\ShapeCanvas2\ShapeCanvas2\obj\Debug\ShapeCanvas2_MarkupCompile.lref
+C:\Users\HSanchez\Desktop\App Dev\ShapeCanvas2\ShapeCanvas2\bin\Debug\ShapeCanvas2.exe.config
+C:\Users\HSanchez\Desktop\App Dev\ShapeCanvas2\ShapeCanvas2\bin\Debug\ShapeCanvas2.exe
+C:\Users\HSanchez\Desktop\App Dev\ShapeCanvas2\ShapeCanvas2\bin\Debug\ShapeCanvas2.pdb
+C:\Users\HSanchez\Desktop\App Dev\ShapeCanvas2\ShapeCanvas2\obj\Debug\MainWindow.baml
+C:\Users\HSanchez\Desktop\App Dev\ShapeCanvas2\ShapeCanvas2\obj\Debug\SlideUserControl\slideusercontrol.baml
+C:\Users\HSanchez\Desktop\App Dev\ShapeCanvas2\ShapeCanvas2\obj\Debug\ShapeCanvas2.g.resources
+C:\Users\HSanchez\Desktop\App Dev\ShapeCanvas2\ShapeCanvas2\obj\Debug\ShapeCanvas2.Properties.Resources.resources
+C:\Users\HSanchez\Desktop\App Dev\ShapeCanvas2\ShapeCanvas2\obj\Debug\ShapeCanvas2.csproj.GenerateResource.Cache
+C:\Users\HSanchez\Desktop\App Dev\ShapeCanvas2\ShapeCanvas2\obj\Debug\ShapeCanvas2.exe
+C:\Users\HSanchez\Desktop\App Dev\ShapeCanvas2\ShapeCanvas2\obj\Debug\ShapeCanvas2.pdb
